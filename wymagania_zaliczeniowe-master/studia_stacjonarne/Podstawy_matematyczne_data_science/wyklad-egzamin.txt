@@ -1,0 +1,31 @@
+Podstawy matematyczne data science
+1. Pojecie liczby zespolonej oraz jej interpretacja
+2. Pojêcia: modu³ liczby zespolonej, argument liczby zespolonej, sprzê¿enie liczby zespolonej (wraz z omówieniem i przyk³adami)
+3. Postaci liczby zespolonej (algebraiczna, trygonometryczna, wyk³adnicza) wraz z omówieniem i wzorami
+4. Wzory Eulera oraz ich zastosowanie
+5. Wzrór de Moivre'a oraz jego interpretacja
+6. Pojêcie macierzy rzeczywistej (zespolonej)
+7. Pojêcia: macierz kwadratowa, macierz trójk¹tna dolna, macierz trójk¹tna górna, macierz diagonalna, macierz jednostkowa, macierz blokowa, macierz transponowana, macierz symetryczna i antysymetryczna
+8. Dzia³ania na macierzach: suma macierzy, iloczyn macierzy przez liczbê, iloczyn macierzy, 
+9. W³asnoœci iloczynu macierzy
+10. Definicja i interpretacja geometryczna wyznacznika macierzy 
+11. Dope³nienie algebraiczne
+12. Macierz odwrotna oraz jej postaæ
+13. W³asnoœci macierzy odwrotnych
+14. Uk³ady Cramera i wzór Cramera
+15. Rz¹d macierzy
+16. Definicja i interpretacje przestrzeni R^3
+17. Wspó³liniowoœæ punktów i wspó³p³aszczyznowoœæ wektorów
+18. Dzia³ania na wektorach (suma, ró¿nica, iloczyn przez liczbê)
+19. Uk³ad wspó³rzêdnych oraz jego orientacja
+20. D³ugoœæ wektora oraz w³asnoœci d³ugoœci wektora
+21. Iloczyn skalarny wektorów oraz jego interpretacja geometryczna
+22. Iloczyn wektorowy wektorów oraz jego interpretacja geometryczna
+23. W³asnoœci iloczynu skalarnego oraz iloczynu wektorowego
+24. Iloczyn mieszany uporz¹dkowanej trójki wektorów oraz jego interpretacja geometryczna
+25. Przyk³ady zastosowañ grafów
+26. W³asnoœci liczbowe grafów
+27. Typy grafów
+28. Reprezentacja grafu - lista s¹siedztwa
+29. Elementarne operacje na grafach
+30. Pojêcie drogi, spójnoœci i drogi wa¿onej w grafach niezorientowanych i zorientowanych

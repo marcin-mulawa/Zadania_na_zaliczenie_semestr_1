@@ -1,0 +1,26 @@
+Typy zadañ:
+1. Dzia³ania na liczbach zespolonych (dodawanie, odejmowanie, mno¿enie) P1.1
+2. Wyznaczanie liczb rzeczywistych spe³niaj¹cych równania zespolone P1.2
+3. Rozwi¹zywanie równañ w zbiorze liczb zespolonych P1.3
+4. Obliczanie modu³u liczby zespolonej P1.6
+5. Przedstawianie liczby zespolonej w postaci trygonometrycznej P1.7
+6. Obliczanie wartoœci wyra¿eñ P1.9
+7. Wykorzystanie wzorów de Moivre’a P1.10
+8. Rozwi¹zywanie równañ w oparciu o wyk³adnicz¹ postaæ liczby zespolonej P1.12
+9. Przedstawianie w równowa¿nej postaci funkcje trygonometryczne przy wykorzystaniu wzorów Eulera P1.13
+10. Obliczanie pierwiastków liczb zespolonych P1.14, P1.16
+11. Wykonywanie dzia³añ na macierzach (dodawanie, odejmowanie, mno¿enie, potêgowanie) P3.1, P3.2
+12. Obliczanie wyznaczników macierzy (schematem Sarrusa, rozwiniêciem Laplace’a, metod¹ operacji elementarnych na kolumnach i wierszach) P3.4, P3.5, P3.6
+13. Obliczanie macierzy odwrotnej z definicji
+14. Obliczanie macierzy odwrotnej metod¹ bezwyznacznikow¹
+15. Rozwi¹zywanie uk³adów równañ za pomoc¹ wzorów Cramera P4.1, P4.2
+16. Rozwi¹zywanie uk³adów równañ metod¹ macierzy odwrotnej P4.3
+17. Obliczanie d³ugoœci wektorów P5.1
+18. Obliczanie iloczynu skalarnego wektorów P5.3, P5.4
+19. Obliczanie iloczynów wektorowych par wektorów P5.5
+20. Obliczanie Iloczynów mieszanych uporz¹dkowanych trójek wektorów P5.7
+21. Badanie liniowej niezale¿noœci wektorów P1.7, P1.8, P1.9, P1.10
+22. Wyznaczanie wartoœci w³asnych i wektorów w³asnych macierzy rzeczywistych P3.28
+23. Wyznaczanie wartoœci w³asnych i wektorów w³asnych macierzy zespolonych P3.29
+24. Opisywanie wybranych problemów in¿ynierskich za pomoc¹ grafów
+25. Rozwi¹zywanie prostych zadañ dotycz¹cych grafów

@@ -1,0 +1,11 @@
+Zagadnienia do przedmiotu „Programowanie w data science – podstawy”
+1. Zastosowania programowania w nauce i in¿ynierii
+2. Jêzyki programowania oraz ich podzia³ na jêzyki kompilowane i skryptowe
+3. Pojêcie zmiennej (wraz z przyk³adami)
+4. Pojêcie instrukcji warunkowej (wraz z przyk³adami)
+5. Pojêcie pêtli oraz rodzaje pêtli (wraz z przyk³adami)
+6. Struktury danych: listy, s³owniki, ³añcuchy tekstowe
+7. Pojêcie funkcji (wraz z przyk³adami)
+8. Pojêcie klasy (wraz z przyk³adami)
+9. Paradygmaty programowania obiektowego (abstrakcja, hermetyzacja, dziedziczenie, polimorfizm) wraz z omówieniem i przyk³adami
+10. Pojêcie biblioteki i modu³u w jêzyku Python

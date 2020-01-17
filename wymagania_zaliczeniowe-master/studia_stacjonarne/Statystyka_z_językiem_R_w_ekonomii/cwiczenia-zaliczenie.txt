@@ -1,0 +1,11 @@
+Typy zadañ rachunkowych:
+1. Sporz¹dzanie histogramu w oparciu o dostarczony zestaw danych
+2. Obliczanie œrednich: arytmetycznej, geometrycznej, harmonicznej w oparciu o dostarczony zestaw danych
+3. Wyznaczanie œrednich pozycyjnych: mediana, dominanta w oparciu o dostarczony zestaw danych
+4. Wyznaczanie kwantyli w oparciu o dostarczony zestaw danych
+5. Wyznaczanie empirycznego obszaru zmiennoœci w oparciu o dostarczony zestaw danych
+6. Obliczanie odchylenia standardowego w oparciu o dostarczony zestaw danych
+7. Obliczanie skoœnoœci w oparciu o dostarczony zestaw danych
+8. Obliczanie kurtozy w oparciu o dostarczony zestaw danych
+9. Obliczanie wspó³czynników regresji liniowej w oparciu o dostarczony zestaw danych
+10. Obliczanie wspó³czynnika korelacji Pearsona w oparciu o dostarczony zestaw danych

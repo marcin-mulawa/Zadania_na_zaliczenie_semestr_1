@@ -1,0 +1,21 @@
+Statystyka z jêzykiem R w ekonomii
+1. Przedmiot zainteresowania statystyki
+2. Cechy zmienne a cechy sta³e
+3. Pomiar wielkoœci prostej i z³o¿onej oraz jego b³¹d (niepewnoœæ)
+4. Skale pomiarowe wraz z omówieniem (nominalna, porz¹dkowa, przedzia³owa, stosunkowa)
+5. Rodzaje badañ statystycznych wraz z omówieniem
+6. Organizacja badañ statystycznych
+7. Szeregi statystyczne (wraz z omówieniem)
+8. Pojêcie histogramu
+9. Pojêcie rozk³adu empirycznego
+10. Przyk³ady podstawowych rozk³adów statystycznych
+11. Pojêcie interpolacji i ekstrapolacji
+12. Miary œrednie
+13. Miary zmiennoœci
+14. Miary asymetrii
+15. Miary koncentracji
+16. Pojêcie regresji liniowej
+17. Wspó³czynnik korelacji Pearsona
+18. Pojêcie i rodzaje szeregów dynamicznych
+19. Metody badania zmian szeregu dynamicznego (przyrost absolutny, wzglêdny, indeksy/wskaŸniki)
+20. Indeksy indywidualne i zespo³owe
