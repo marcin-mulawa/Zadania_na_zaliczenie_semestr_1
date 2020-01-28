@@ -1,3 +1,5 @@
-red;czerwony;2020-01-29
-black;czarny;2020-01-29
-blue;niebieski;2020-01-29
+blue;niebieski;2020-01-28
+red;czerwony;2020-01-28
+pink;różowy;2020-01-28
+black;czarny;2020-01-28
+white;biały;2020-01-28

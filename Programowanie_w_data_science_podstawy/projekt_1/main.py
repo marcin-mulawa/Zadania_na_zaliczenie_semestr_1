@@ -57,7 +57,7 @@ def create_file(file):
     else:
         decision = input("Plik istnieje, kontynuować? [t/n]")
     if decision == 't':
-        with open(file, 'w') as f:
+        with open(file, 'w', encoding='utf-8') as f:
             add_to_file(f)
 
 
@@ -91,9 +91,14 @@ def choose_file():
         files.append((i, el.strip('.\\')))
     for i, el in files:
         print('{}. {}'.format(i + 1, el))
-    num_file = int(input("Wybór (wpisz liczbę): "))
-    file = files[num_file - 1][1]
-    return file
+    while True:
+        num_file = int(input("Wybór (wpisz liczbę): "))
+        try:
+            file = files[num_file - 1][1]
+            return file
+        except:
+            print("Błedny wybór")
+
 
 
 def learning(file, every=False, log=[]):
@@ -120,9 +125,8 @@ def learning(file, every=False, log=[]):
                 print('Zła odpowiedź')
                 word['time'] = datetime.now().date()
     edit_log(words, file)
-    with open(file, 'w') as f:
+    with open(file, 'w', encoding='utf-8') as f:
         add_to_file(f, words)
-
 
 def menu():
     print("Witaj w programie do nauki słówek!!!\n"
@@ -161,7 +165,6 @@ def main_loop():
             learning(file, False, log)
         elif decision == 5:
             sys.exit()
-
 
 
 main_loop()

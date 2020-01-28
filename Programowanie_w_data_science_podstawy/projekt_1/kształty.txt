@@ -1,0 +1,3 @@
+square;kwadrat;2020-01-28
+triangle;trójkąt;2020-01-28
+circle;okrąg;2020-01-28

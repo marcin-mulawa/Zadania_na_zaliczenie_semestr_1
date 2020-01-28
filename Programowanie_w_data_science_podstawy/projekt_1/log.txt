@@ -1,4 +1,4 @@
-2020-01-22;kolory.txt
-red;2020-01-29
-black;2020-01-29
-blue;2020-01-29
+2020-01-28;kształty.txt
+square;2020-01-28
+triangle;2020-01-28
+circle;2020-01-28
